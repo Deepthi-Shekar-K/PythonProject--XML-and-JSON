@@ -1,0 +1,13 @@
+PARSING OF XML AND JSON FILES
+
+1.Run the Mainprogram.py file.
+2. Once the program is run,  a window will pop up with the title "PARSING WINDOW".
+3. In this window, tou can find two buttons namely,
+    a) Parsing XML Data
+    b) Parsing JSON Data
+4. Click on each of the buttons to get the contents of the respective files.
+5. When you click on the "Parsing XML Data" button, a new window with the heading as "XML DATA" will be displayed,
+    which consists of all the contents of the XML file.
+6. Similarly,when you click on the "Parsing JSON Data" button, a new window with the heading as "JSON DATA" will be displayed,
+    which consists of all the contents of the XML file.
+7. Close all the windows to end the program execution.

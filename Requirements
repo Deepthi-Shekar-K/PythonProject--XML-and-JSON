@@ -1,0 +1,10 @@
+Used platform is PyCharm.
+
+Files:
+1. XML file
+2. JSON file
+2. A python file to parse both XML and JSON files
+
+PACKAGES:
+1. tkinter - used for the graphical user interface(GUI)
+2. json - to support json files.
